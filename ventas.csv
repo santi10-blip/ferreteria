@@ -1,0 +1,301 @@
+fecha,producto,cantidad,precio
+2025-02-26,Cinta métrica,4,46.45
+2025-03-23,Cinta métrica,1,44.24
+2025-08-07,Destornillador,4,104.0
+2025-01-20,Clavo 3cm,1,46.82
+2025-06-18,Martillo,5,91.63
+2025-05-29,Taladro,5,92.67
+2025-01-20,Tornillo 4mm,5,15.66
+2025-02-19,Taladro,2,9.57
+2025-04-08,Clavo 3cm,1,36.17
+2025-01-08,Destornillador,2,106.95
+2025-09-17,Martillo,5,39.61
+2025-05-29,Cinta métrica,3,72.25
+2025-02-10,Martillo,4,4.91
+2025-10-02,Tornillo 4mm,1,16.2
+2025-07-19,Clavo 3cm,2,73.76
+2025-02-17,Martillo,4,86.02
+2025-03-15,Taladro,1,47.05
+2025-10-18,Destornillador,1,70.6
+2025-04-28,Martillo,1,5.45
+2025-03-02,Cinta métrica,3,46.23
+2025-02-03,Clavo 3cm,3,53.1
+2025-07-06,Martillo,3,13.26
+2025-07-31,Destornillador,3,61.51
+2025-04-04,Cinta métrica,1,106.28
+2025-08-04,Taladro,4,102.99
+2025-04-01,Taladro,3,35.67
+2025-09-28,Clavo 3cm,1,8.66
+2025-07-16,Clavo 3cm,5,111.53
+2025-03-07,Clavo 3cm,5,31.07
+2025-02-19,Tornillo 4mm,2,40.65
+2025-06-15,Cinta métrica,4,65.74
+2025-08-21,Cinta métrica,3,5.61
+2025-07-10,Clavo 3cm,4,21.59
+2025-01-26,Cinta métrica,1,21.92
+2025-08-11,Clavo 3cm,5,60.24
+2025-05-26,Martillo,5,58.48
+2025-07-28,Cinta métrica,5,43.23
+2025-09-01,Clavo 3cm,2,27.38
+2025-05-18,Cinta métrica,4,34.08
+2025-07-01,Destornillador,3,6.61
+2025-08-28,Tornillo 4mm,2,17.11
+2025-08-27,Cinta métrica,2,105.43
+2025-06-29,Destornillador,4,38.73
+2025-02-17,Clavo 3cm,2,49.85
+2025-10-03,Destornillador,2,59.71
+2025-02-24,Martillo,3,98.93
+2025-02-26,Destornillador,3,50.19
+2025-06-01,Destornillador,5,18.23
+2025-01-21,Tornillo 4mm,5,67.19
+2025-10-24,Tornillo 4mm,4,24.54
+2025-05-03,Cinta métrica,5,58.87
+2025-07-02,Cinta métrica,2,49.68
+2025-07-01,Tornillo 4mm,1,44.59
+2025-01-26,Tornillo 4mm,1,99.09
+2025-03-30,Cinta métrica,1,100.69
+2025-03-24,Cinta métrica,5,55.68
+2025-02-16,Destornillador,1,9.04
+2025-01-08,Martillo,5,119.34
+2025-08-09,Cinta métrica,3,32.11
+2025-01-16,Clavo 3cm,4,96.57
+2025-10-08,Tornillo 4mm,4,55.97
+2025-08-17,Taladro,4,108.53
+2025-05-12,Destornillador,3,97.7
+2025-10-14,Destornillador,5,21.54
+2025-02-27,Martillo,2,25.71
+2025-05-23,Tornillo 4mm,4,93.14
+2025-05-04,Tornillo 4mm,2,36.67
+2025-10-18,Martillo,4,78.0
+2025-02-03,Destornillador,4,74.6
+2025-07-31,Taladro,1,9.85
+2025-04-25,Destornillador,4,11.42
+2025-06-15,Cinta métrica,4,6.0
+2025-07-06,Taladro,1,29.83
+2025-09-26,Taladro,3,60.86
+2025-01-30,Martillo,2,64.57
+2025-09-24,Cinta métrica,1,44.56
+2025-05-13,Taladro,4,54.48
+2025-03-17,Cinta métrica,4,76.81
+2025-07-28,Destornillador,2,74.88
+2025-03-30,Tornillo 4mm,2,69.88
+2025-03-15,Martillo,2,7.7
+2025-07-28,Clavo 3cm,2,92.97
+2025-09-20,Tornillo 4mm,1,44.14
+2025-02-21,Cinta métrica,1,87.61
+2025-10-27,Destornillador,3,41.02
+2025-07-11,Taladro,5,46.97
+2025-06-10,Clavo 3cm,3,115.96
+2025-09-08,Tornillo 4mm,5,55.8
+2025-08-04,Cinta métrica,4,57.77
+2025-07-01,Taladro,1,94.24
+2025-10-19,Taladro,3,100.07
+2025-08-15,Martillo,1,37.46
+2025-02-05,Tornillo 4mm,2,119.83
+2025-02-12,Tornillo 4mm,2,100.5
+2025-07-14,Destornillador,4,91.51
+2025-08-22,Taladro,3,4.87
+2025-04-15,Clavo 3cm,5,57.02
+2025-07-25,Cinta métrica,3,29.75
+2025-02-20,Destornillador,4,11.54
+2025-01-18,Taladro,1,57.28
+2025-07-27,Destornillador,4,47.55
+2025-07-12,Destornillador,4,86.17
+2025-06-22,Cinta métrica,3,115.04
+2025-10-16,Clavo 3cm,1,90.17
+2025-10-25,Clavo 3cm,4,110.9
+2025-05-22,Martillo,4,38.04
+2025-08-19,Tornillo 4mm,2,119.36
+2025-02-14,Cinta métrica,2,10.98
+2025-08-28,Clavo 3cm,3,105.2
+2025-03-11,Cinta métrica,3,115.24
+2025-02-15,Taladro,2,69.37
+2025-08-25,Martillo,5,64.86
+2025-01-10,Tornillo 4mm,2,28.24
+2025-04-09,Cinta métrica,3,30.29
+2025-08-07,Destornillador,3,54.66
+2025-06-25,Tornillo 4mm,2,7.78
+2025-05-23,Martillo,4,22.91
+2025-03-10,Taladro,5,25.35
+2025-01-22,Tornillo 4mm,3,34.35
+2025-04-18,Destornillador,1,10.87
+2025-10-27,Cinta métrica,5,17.09
+2025-09-16,Taladro,5,39.61
+2025-06-14,Tornillo 4mm,1,104.22
+2025-03-16,Martillo,4,17.61
+2025-02-21,Clavo 3cm,3,41.53
+2025-04-09,Taladro,1,67.36
+2025-08-13,Destornillador,3,102.02
+2025-02-17,Clavo 3cm,2,49.4
+2025-03-24,Clavo 3cm,2,98.66
+2025-05-21,Martillo,1,87.1
+2025-07-08,Destornillador,3,114.47
+2025-01-21,Tornillo 4mm,5,19.77
+2025-07-16,Tornillo 4mm,2,107.06
+2025-04-08,Taladro,4,46.09
+2025-06-03,Cinta métrica,4,50.59
+2025-09-06,Destornillador,4,82.75
+2025-02-14,Clavo 3cm,2,23.74
+2025-08-29,Taladro,3,75.43
+2025-05-29,Destornillador,3,116.69
+2025-05-19,Destornillador,1,9.66
+2025-05-29,Martillo,4,53.64
+2025-04-16,Destornillador,1,37.76
+2025-05-30,Tornillo 4mm,2,109.75
+2025-08-25,Cinta métrica,3,95.21
+2025-08-21,Destornillador,3,94.24
+2025-10-16,Tornillo 4mm,2,47.48
+2025-07-24,Martillo,2,118.85
+2025-01-13,Clavo 3cm,5,100.81
+2025-10-13,Destornillador,5,117.3
+2025-10-23,Clavo 3cm,3,46.86
+2025-01-20,Cinta métrica,3,95.69
+2025-06-02,Destornillador,3,69.76
+2025-06-03,Taladro,1,58.65
+2025-04-27,Tornillo 4mm,3,88.26
+2025-07-27,Destornillador,5,75.84
+2025-05-25,Tornillo 4mm,2,73.74
+2025-06-14,Taladro,4,64.81
+2025-03-19,Destornillador,1,102.21
+2025-09-12,Destornillador,4,93.07
+2025-08-11,Cinta métrica,2,40.84
+2025-02-14,Taladro,3,72.7
+2025-10-04,Tornillo 4mm,2,86.12
+2025-06-09,Tornillo 4mm,5,104.78
+2025-08-16,Cinta métrica,2,84.15
+2025-09-07,Destornillador,3,11.79
+2025-09-09,Cinta métrica,2,69.08
+2025-03-05,Cinta métrica,5,41.71
+2025-03-24,Martillo,2,9.96
+2025-09-19,Cinta métrica,3,49.85
+2025-07-04,Cinta métrica,2,38.66
+2025-10-16,Tornillo 4mm,4,83.57
+2025-06-25,Taladro,5,62.35
+2025-10-28,Clavo 3cm,3,88.61
+2025-06-15,Cinta métrica,3,44.4
+2025-03-02,Taladro,5,24.54
+2025-04-21,Clavo 3cm,5,84.08
+2025-07-07,Destornillador,3,81.55
+2025-07-10,Cinta métrica,5,3.96
+2025-06-25,Martillo,5,55.46
+2025-10-05,Cinta métrica,4,44.98
+2025-04-21,Clavo 3cm,3,18.83
+2025-01-01,Tornillo 4mm,5,94.63
+2025-08-05,Clavo 3cm,1,49.05
+2025-01-21,Destornillador,2,98.02
+2025-01-25,Cinta métrica,5,47.93
+2025-01-15,Taladro,1,50.0
+2025-09-24,Martillo,5,41.5
+2025-09-12,Cinta métrica,1,105.45
+2025-01-01,Martillo,5,89.23
+2025-08-06,Destornillador,3,116.93
+2025-07-27,Clavo 3cm,4,81.54
+2025-05-29,Taladro,3,106.62
+2025-07-27,Clavo 3cm,4,81.97
+2025-02-15,Cinta métrica,1,93.34
+2025-07-23,Taladro,2,78.58
+2025-09-02,Destornillador,3,35.77
+2025-03-16,Martillo,2,22.68
+2025-05-10,Destornillador,4,40.24
+2025-10-01,Taladro,1,63.12
+2025-07-07,Tornillo 4mm,4,108.87
+2025-04-09,Clavo 3cm,1,33.25
+2025-08-22,Martillo,4,95.58
+2025-03-30,Destornillador,5,38.36
+2025-07-07,Cinta métrica,1,54.4
+2025-02-05,Destornillador,2,59.83
+2025-06-10,Martillo,4,99.57
+2025-04-30,Tornillo 4mm,4,28.47
+2025-06-23,Tornillo 4mm,2,20.66
+2025-09-18,Tornillo 4mm,2,101.18
+2025-03-11,Clavo 3cm,2,23.61
+2025-10-26,Clavo 3cm,3,85.22
+2025-05-22,Martillo,5,26.08
+2025-08-16,Cinta métrica,3,29.54
+2025-05-04,Taladro,5,93.71
+2025-09-25,Clavo 3cm,2,65.77
+2025-02-17,Cinta métrica,4,116.36
+2025-01-07,Tornillo 4mm,1,49.63
+2025-02-10,Cinta métrica,2,41.61
+2025-09-10,Tornillo 4mm,4,32.49
+2025-04-10,Martillo,5,29.07
+2025-02-15,Destornillador,1,17.74
+2025-08-17,Taladro,3,11.65
+2025-07-20,Destornillador,1,18.62
+2025-08-30,Martillo,2,58.7
+2025-06-19,Cinta métrica,5,95.14
+2025-09-14,Martillo,4,96.09
+2025-04-26,Tornillo 4mm,2,76.11
+2025-10-12,Martillo,4,47.41
+2025-10-03,Cinta métrica,1,4.23
+2025-05-23,Tornillo 4mm,2,71.11
+2025-05-01,Destornillador,1,56.03
+2025-10-05,Clavo 3cm,4,58.51
+2025-07-20,Clavo 3cm,5,101.93
+2025-10-15,Cinta métrica,5,96.68
+2025-09-06,Clavo 3cm,1,87.37
+2025-02-03,Tornillo 4mm,3,35.19
+2025-03-21,Taladro,5,27.57
+2025-01-16,Tornillo 4mm,4,16.52
+2025-04-27,Cinta métrica,3,78.53
+2025-01-17,Martillo,1,100.26
+2025-10-26,Tornillo 4mm,2,23.54
+2025-05-23,Martillo,1,7.2
+2025-09-10,Cinta métrica,4,7.7
+2025-05-22,Martillo,3,102.1
+2025-07-14,Martillo,5,69.29
+2025-04-06,Destornillador,2,12.41
+2025-01-16,Taladro,4,7.98
+2025-05-25,Tornillo 4mm,2,118.76
+2025-03-24,Taladro,3,19.15
+2025-08-14,Tornillo 4mm,3,70.14
+2025-06-17,Cinta métrica,1,16.37
+2025-08-06,Taladro,5,28.74
+2025-03-01,Destornillador,3,36.55
+2025-09-26,Destornillador,4,52.75
+2025-02-06,Tornillo 4mm,5,116.83
+2025-10-15,Tornillo 4mm,5,105.68
+2025-06-15,Taladro,3,14.53
+2025-01-08,Tornillo 4mm,3,92.02
+2025-07-20,Taladro,5,98.25
+2025-02-08,Cinta métrica,2,92.86
+2025-01-20,Cinta métrica,2,35.23
+2025-06-29,Destornillador,2,71.03
+2025-05-19,Clavo 3cm,1,117.84
+2025-06-18,Tornillo 4mm,3,63.1
+2025-07-18,Tornillo 4mm,2,58.58
+2025-07-23,Tornillo 4mm,1,60.64
+2025-08-18,Clavo 3cm,1,77.8
+2025-09-30,Destornillador,1,78.64
+2025-07-17,Martillo,2,107.38
+2025-02-16,Destornillador,1,105.03
+2025-04-14,Clavo 3cm,4,40.17
+2025-02-26,Clavo 3cm,4,27.74
+2025-05-03,Cinta métrica,2,67.44
+2025-01-24,Taladro,2,41.73
+2025-06-29,Tornillo 4mm,2,23.22
+2025-05-26,Tornillo 4mm,1,14.4
+2025-01-09,Tornillo 4mm,3,53.66
+2025-06-14,Martillo,4,43.07
+2025-05-09,Clavo 3cm,1,39.7
+2025-10-28,Martillo,5,62.42
+2025-05-29,Tornillo 4mm,1,93.98
+2025-02-09,Destornillador,1,95.75
+2025-05-29,Destornillador,3,41.82
+2025-09-30,Tornillo 4mm,1,40.25
+2025-05-21,Tornillo 4mm,2,69.6
+2025-05-05,Tornillo 4mm,5,66.79
+2025-10-14,Cinta métrica,1,38.62
+2025-06-29,Destornillador,2,87.89
+2025-03-22,Tornillo 4mm,5,52.43
+2025-02-01,Cinta métrica,4,86.56
+2025-07-29,Clavo 3cm,4,80.34
+2025-03-19,Clavo 3cm,1,56.88
+2025-03-05,Cinta métrica,4,77.86
+2025-04-06,Cinta métrica,3,103.68
+2025-08-27,Taladro,2,110.79
+2025-02-01,Clavo 3cm,2,61.94
+2025-10-24,Taladro,4,39.07
+2025-05-13,Tornillo 4mm,4,80.65
+2025-05-10,Tornillo 4mm,3,35.88
+2025-03-05,Destornillador,5,103.55
